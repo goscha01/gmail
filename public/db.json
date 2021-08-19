@@ -1,0 +1,119 @@
+{
+    "emails": [
+        {
+            "id": 1001,
+            "email": "no-reply@hackerrankmail.com",
+            "title": "Improve your coding skills with 30 Days of Code",
+            "date": "11:33 AM",
+            "Text": "Ready to become a better coder? Practicing for a programming job interview? Join thousands of other HackerRank members who are learning to code or brushing up on fundamentals. Each day, you’ll get a new code challenge and a corresponding video tutorial to help you learn.",
+            "important": false
+        },
+        {
+            "id": 1002,
+            "email": "no-reply@hackerrankmail.com",
+            "title": "Improve your coding skills with 30 Days of Code",
+            "date": "11:33 AM",
+            "Text": "Ready to become a better coder? Practicing for a programming job interview? Join thousands of other HackerRank members who are learning to code or brushing up on fundamentals. Each day, you’ll get a new code challenge and a corresponding video tutorial to help you learn.",
+            "important": false
+        },
+        {
+            "id": 1003,
+            "email": "no-reply@hackerrankmail.com",
+            "title": "Improve your coding skills with 30 Days of Code",
+            "date": "11:33 AM",
+            "Text": "Ready to become a better coder? Practicing for a programming job interview? Join thousands of other HackerRank members who are learning to code or brushing up on fundamentals. Each day, you’ll get a new code challenge and a corresponding video tutorial to help you learn.",
+            "important": false
+        },
+        {   
+            "id": 1004,
+            "email": "no-reply@hackerrankmail.com",
+            "title": "Improve your coding skills with 30 Days of Code",
+            "date": "11:33 AM",
+            "Text": "Ready to become a better coder? Practicing for a programming job interview? Join thousands of other HackerRank members who are learning to code or brushing up on fundamentals. Each day, you’ll get a new code challenge and a corresponding video tutorial to help you learn.",
+            "important": true
+         
+        },
+        {             
+            "id": 1005,
+            "email": "no-reply@hackerrankmail.com",
+            "title": "Improve your coding skills with 30 Days of Code",
+            "date": "11:33 AM",
+            "Text": "Ready to become a better coder? Practicing for a programming job interview? Join thousands of other HackerRank members who are learning to code or brushing up on fundamentals. Each day, you’ll get a new code challenge and a corresponding video tutorial to help you learn.",
+            "important": false
+
+        },
+        {
+            "id": 1111,
+            "email": "no-reply@hackerrankmail.com",
+            "title": "Improve your coding skills with 30 Days of Code",
+            "date": "11:33 AM",
+            "Text": "Ready to become a better coder? Practicing for a programming job interview? Join thousands of other HackerRank members who are learning to code or brushing up on fundamentals. Each day, you’ll get a new code challenge and a corresponding video tutorial to help you learn.",
+            "important": false
+
+        },
+        {
+            "id": 1112,
+            "email": "no-reply@hackerrankmail.com",
+            "title": "Improve your coding skills with 30 Days of Code",
+            "date": "11:33 AM",
+            "Text": "Ready to become a better coder? Practicing for a programming job interview? Join thousands of other HackerRank members who are learning to code or brushing up on fundamentals. Each day, you’ll get a new code challenge and a corresponding video tutorial to help you learn.",
+            "important": true
+
+        },
+        {
+            "id": 1114,
+            "email": "no-reply@hackerrankmail.com",
+            "title": "Improve your coding skills with 30 Days of Code",
+            "date": "11:33 AM",
+            "Text": "Ready to become a better coder? Practicing for a programming job interview? Join thousands of other HackerRank members who are learning to code or brushing up on fundamentals. Each day, you’ll get a new code challenge and a corresponding video tutorial to help you learn.",
+            "important": false
+
+        },
+        { 
+            "id": 1115,
+            "email": "no-reply@hackerrankmail.com",
+            "title": "Improve your coding skills with 30 Days of Code",
+            "date": "11:33 AM",
+            "Text": "Ready to become a better coder? Practicing for a programming job interview? Join thousands of other HackerRank members who are learning to code or brushing up on fundamentals. Each day, you’ll get a new code challenge and a corresponding video tutorial to help you learn.",
+            "important": true
+
+        },
+        {
+            "id": 1123,
+            "email": "no-reply@hackerrankmail.com",
+            "title": "Improve your coding skills with 30 Days of Code",
+            "date": "11:33 AM",
+            "Text": "Ready to become a better coder? Practicing for a programming job interview? Join thousands of other HackerRank members who are learning to code or brushing up on fundamentals. Each day, you’ll get a new code challenge and a corresponding video tutorial to help you learn.",
+            "important": false
+
+        },
+        {
+            
+            "id": 1124,
+            "email": "no-reply@hackerrankmail.com",
+            "title": "Improve your coding skills with 30 Days of Code",
+            "date": "11:33 AM",
+            "Text": "Ready to become a better coder? Practicing for a programming job interview? Join thousands of other HackerRank members who are learning to code or brushing up on fundamentals. Each day, you’ll get a new code challenge and a corresponding video tutorial to help you learn.",
+            "important": false
+
+        },
+        {
+            "id": 1125,
+            "email": "no-reply@hackerrankmail.com",
+            "title": "Improve your coding skills with 30 Days of Code",
+            "date": "11:33 AM",
+            "Text": "Ready to become a better coder? Practicing for a programming job interview? Join thousands of other HackerRank members who are learning to code or brushing up on fundamentals. Each day, you’ll get a new code challenge and a corresponding video tutorial to help you learn.",
+            "important": "Yes"
+
+        },
+        {
+            "id": 1126,
+            "email": "no-reply@hackerrankmail.com",
+            "title": "Improve your coding skills with 30 Days of Code",
+            "date": "11:33 AM",
+            "Text": "Ready to become a better coder? Practicing for a programming job interview? Join thousands of other HackerRank members who are learning to code or brushing up on fundamentals. Each day, you’ll get a new code challenge and a corresponding video tutorial to help you learn.",
+            "important": true
+
+        }
+    ]
+}
