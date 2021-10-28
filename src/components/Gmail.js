@@ -41,7 +41,7 @@ const useStyles = makeStyles((theme) => ({
     placeItem: 'center'
   },
   gmailLine: {
-    paddingLeft: '21px',
+    paddingLeft: ' 21px',
     width: '100%',
     display: "inline-block", 
     borderTop: '1px lightgray solid',
